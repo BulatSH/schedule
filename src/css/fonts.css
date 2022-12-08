@@ -1,0 +1,21 @@
+@font-face {
+	font-family: "PF Din Text";
+	src:
+		url("../fonts/pfdintextcomppro-light.eot?") format("eot"),
+		url("../fonts/pfdintextcomppro-light.woff") format("woff"),
+		url("../fonts/PFDinTextCompPro-Light.ttf") format("truetype");
+
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "PF Din Text";
+	src:
+		url("../fonts/pfdintextcomppro-medium.eot?") format("eot"),
+		url("../fonts/pfdintextcomppro-medium.woff") format("woff"),
+		url("../fonts/PFDinTextCompPro-Medium.ttf") format("truetype");
+
+	font-weight: 600;
+	font-style: normal;
+}
